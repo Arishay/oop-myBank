@@ -1,0 +1,22 @@
+{
+  "name": "ag212-student-management-system",
+  "version": "1.0.3",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arisha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
